@@ -4,8 +4,6 @@
 This project is a JavaScript assignment that demonstrates the required functionality using HTML, CSS, and JavaScript.
 
 ## Technologies Used
-- HTML5
-- CSS3
 - JavaScript (ES6)
 
 ## How to Run the Project
@@ -25,25 +23,14 @@ cd Assignment-1-js-
 3. Open the project:
 
 - Open the folder in **Visual Studio Code**.
-- Open the `index.html` file in your browser.
 
-### Recommended (Using Live Server)
-
-If you're using Visual Studio Code:
-
-1. Install the **Live Server** extension.
-2. Right-click on `index.html`.
-3. Select **Open with Live Server**.
-
-The project will open automatically in your default browser.
 
 ## Project Structure
 
 ```
 Assignment-1-js-/
-│── index.html
-│── style.css
-│── script.js
+│── assignment1.js
+│── bonus.js
 └── README.md
 ```
 
